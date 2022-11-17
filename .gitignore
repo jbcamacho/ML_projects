@@ -130,3 +130,9 @@ dmypy.json
 
 # Kaggle stuff
 kaggle.json
+
+# Datasets
+*.csv
+*.json
+*.xls
+*.xlsx
