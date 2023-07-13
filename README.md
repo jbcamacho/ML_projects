@@ -12,7 +12,7 @@ This repository contains several ML projects that I have completed in my free ti
   - [Analyzing 120 Years of Olympic History](1.Exploratory_Data_Analysis/1.analyzing_120_years_of_olympic_history.ipynb): In this project, we will analyze and explore 120 years of Olympic Games data using matplotlib and seaborn.
 - Regression
   - [Linear Regression with Boston House Prices](2.Regression/1.linear_regression_with_boston_house_prices.ipynb): In this project, we will create a linear regression model to predict the median house values in boston using scikit-learn.
-- Regression
+- Classification
   - [Binary Classification of Machine Failures](3.Classification/1_Binary_Classification_of_Machine_Failures.ipynb): In this project, we will train several classification models in order to predict if a machine is going to fail. We will be using gradient booting techniques.
 # License
 
